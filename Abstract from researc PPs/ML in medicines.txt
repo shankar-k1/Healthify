@@ -1,0 +1,15 @@
+Machine Learning (ML) provides methods, techniques, and tools that can 
+help solving diagnostic and prognostic problems in a variety of medical domains. 
+ML is being used for the analysis of the importance of clinical parameters and 
+their combinations for prognosis, e.g. prediction of disease progression, 
+extraction of medical knowledge for outcome research, therapy planning 
+and support, and for the overall patient management. ML is also being 
+used for data analysis, such as detection of regularities in the data by
+appropriately dealing with imperfect data, interpretation of continuous 
+data used in the Intensive Care Unit, and intelligent alarming resulting 
+in effective and efficient monitoring. It is argued that the successful 
+implementation of ML methods can help the integration of computer-based systems 
+in the healthcare environment providing opportunities to facilitate and 
+enhance the work of medical experts and ultimately to improve the 
+efficiency and quality of medical care. Below, we summarize some 
+major ML applications in medicine.
